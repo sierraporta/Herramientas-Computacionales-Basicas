@@ -1,6 +1,6 @@
 Aqui videos de las clases:
 
-Viernes 
+Sesiones de los Viernes 
 | Grupo | Contenido | Fecha | Enlace |
 | --- | --- | --- | --- |
 | PA2 | Pandas y visualización | 2021.09.24 | https://drive.google.com/file/d/18DA_0X8Rf4F7p6F2MWrh_Z1DWlrQYag7/view?usp=sharing |
