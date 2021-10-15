@@ -9,3 +9,6 @@ Sesiones de los Viernes
 | PA2 | Ajuste de curvas | 2021.10.08 | https://drive.google.com/file/d/1UcGGgWPrCRR82zWVCR6tjS0yfg1IKijr/view?usp=sharing |
 | PA1 | Ajuste de curvas | 2021.10.08 | https://drive.google.com/file/d/1F3jWMv8SjIw8NMLpkhr6ro139MYx8LVv/view?usp=sharing |
 | A1 | Ajuste de curvas | 2021.10.08 | https://drive.google.com/file/d/1Oga8qMoq0T73DmdiCbj2uW4jCEqmMwwB/view?usp=sharing |
+| PA2 | Tarea, Pandas, Ajuste de curvas | 2021.10.15 | https://drive.google.com/file/d/1igMi6zX2P7HhwyPw5YkPeZPxeBKBsxc5/view?usp=sharing |
+| PA1 | Tarea, Pandas, Ajuste de curvas | 2021.10.15 | https://drive.google.com/file/d/1CC36R4yCxrxK-erJit8fGqC_zj5T2n_U/view?usp=sharing |
+| A1 | Tarea, Pandas, Ajuste de curvas | 2021.10.15 | https://drive.google.com/file/d/1Lq0_UJONDCb0-1rxULBQeIV9UUpbHbug/view?usp=sharing |
